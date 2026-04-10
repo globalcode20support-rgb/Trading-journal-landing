@@ -12,7 +12,7 @@ Bienvenido al repositorio principal de **Trading Journal - GlobalCode 2.0**.
 
 ### 📚 Documentación Oficial
 
-- **[📖 Guía Completa de Usuario](https://globalcode20support-rgb.github.io/trading-journal-guide/)**
+- **[📖 Guía Completa de Usuario](https://globalcode20support-rgb.github.io/trading-journal-guide/TradingJournal_UserGuide.html)**
 - **[🔒 Política de Privacidad](https://globalcode20support-rgb.github.io/trading-journal-privacy/)**
 
 ---
