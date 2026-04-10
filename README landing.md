@@ -1,20 +1,25 @@
 # Trading Journal - GlobalCode 2.0
 
-**Landing Page Oficial y Repositorio Principal**
+**Landing Page Oficial**
 
-Bienvenido al repositorio oficial de la página web y documentación de **Trading Journal - GlobalCode 2.0**.
+Bienvenido al repositorio principal de **Trading Journal - GlobalCode 2.0**, el diario de trading profesional más completo y visual.
 
-### 📌 Accesos Directos
+### 🌐 Acceso Directo
 
-- **[🌐 Landing Page / Web Principal](https://globalcode20support-rgb.github.io/Trading-journal-landing/)**  
-- **[📖 Guía Oficial de Usuario](https://github.com/globalcode20support-rgb/trading-journal-guide)**  
-- **[🔒 Política de Privacidad](https://github.com/globalcode20support-rgb/trading-journal-privacy)**
+**[Visitar Landing Page](https://globalcode20support-rgb.github.io/Trading-journal-landing/)**
+
+---
+
+### 📚 Documentación Oficial
+
+- **[📖 Guía Completa de Usuario](https://globalcode20support-rgb.github.io/trading-journal-guide/)**  
+- **[🔒 Política de Privacidad](https://globalcode20support-rgb.github.io/trading-journal-privacy/)**
 
 ---
 
 ### Sobre la aplicación
 
-**Trading Journal - GlobalCode 2.0** es el diario de trading profesional más completo y visual diseñado para traders serios de:
+**Trading Journal - GlobalCode 2.0** es una herramienta avanzada diseñada para traders serios de:
 
 - Forex
 - Oro (XAUUSD)
@@ -22,22 +27,25 @@ Bienvenido al repositorio oficial de la página web y documentación de **Tradin
 - Índices
 - Desafíos Prop Firm
 
-**Características principales:**
-- Calendario inteligente con código de colores
-- Monitor profesional de Drawdown
+### Características principales
+
+- Calendario mensual inteligente con código de colores
+- Monitor profesional de Drawdown con alertas
 - Calculadora de riesgo en tiempo real
-- Estadísticas avanzadas y Expectancy
-- Regla de Consistencia
+- Estadísticas avanzadas (Win Rate, Profit Factor, Expectancy…)
+- Regla de Consistencia automática
 - AI Coach opcional
-- Backup completo en ZIP + Reportes PDF
+- Soporte para imágenes y notas por trade
+- Backup completo en ZIP + Reportes PDF profesionales
 - 100% offline y sin publicidad
 
 ---
 
 ### Enlaces importantes
 
-- **Guía de Usuario** → [Ver aquí](https://github.com/globalcode20support-rgb/trading-journal-guide)
-- **Política de Privacidad** → [Ver aquí](https://github.com/globalcode20support-rgb/trading-journal-privacy)
+- **Landing Page** → [globalcode20support-rgb.github.io/Trading-journal-landing](https://globalcode20support-rgb.github.io/Trading-journal-landing/)
+- **Guía de Usuario** → [globalcode20support-rgb.github.io/trading-journal-guide](https://globalcode20support-rgb.github.io/trading-journal-guide/)
+- **Política de Privacidad** → [globalcode20support-rgb.github.io/trading-journal-privacy](https://globalcode20support-rgb.github.io/trading-journal-privacy/)
 
 ---
 
